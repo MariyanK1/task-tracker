@@ -1,0 +1,6 @@
+.title,
+.date,
+.reminder {
+  display: flex;
+  justify-content: space-between;
+}
